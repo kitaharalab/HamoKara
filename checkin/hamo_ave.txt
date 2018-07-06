@@ -1,0 +1,3 @@
+sameAve:0.21554429076152037
+sameMainAve:0.0
+uniAve:0.0

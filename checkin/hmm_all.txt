@@ -1,0 +1,340 @@
+song name:checkin/midi/10_re.mid
+tickMatch=1033mainLength=1035match=586per=0.5661835748792271
+matchsecond=144match+matchsecond=730per=0.7053140096618358
+=====================
+song name:checkin/midi/80_re.mid
+tickMatch=621mainLength=621match=361per=0.5813204508856683
+matchsecond=121match+matchsecond=482per=0.7761674718196457
+=====================
+song name:checkin/midi/07_re.mid
+tickMatch=444mainLength=444match=248per=0.5585585585585585
+matchsecond=64match+matchsecond=312per=0.7027027027027027
+=====================
+song name:checkin/midi/65_re.mid
+tickMatch=440mainLength=440match=280per=0.6363636363636364
+matchsecond=72match+matchsecond=352per=0.8
+=====================
+song name:checkin/midi/46_re.mid
+tickMatch=488mainLength=489match=239per=0.4887525562372188
+matchsecond=111match+matchsecond=350per=0.7157464212678937
+=====================
+song name:checkin/midi/44_re.mid
+tickMatch=413mainLength=413match=212per=0.513317191283293
+matchsecond=107match+matchsecond=319per=0.7723970944309927
+=====================
+song name:checkin/midi/50_re.mid
+tickMatch=469mainLength=469match=263per=0.5607675906183369
+matchsecond=109match+matchsecond=372per=0.7931769722814499
+=====================
+song name:checkin/midi/82_re.mid
+tickMatch=599mainLength=599match=345per=0.5759599332220368
+matchsecond=124match+matchsecond=469per=0.7829716193656093
+=====================
+song name:checkin/midi/34_re.mid
+tickMatch=535mainLength=537match=329per=0.6126629422718808
+matchsecond=101match+matchsecond=430per=0.8007448789571695
+=====================
+song name:checkin/midi/39_re.mid
+tickMatch=395mainLength=395match=216per=0.5468354430379747
+matchsecond=61match+matchsecond=277per=0.7012658227848101
+=====================
+song name:checkin/midi/69_re.mid
+tickMatch=406mainLength=407match=212per=0.5208845208845209
+matchsecond=70match+matchsecond=282per=0.6928746928746928
+=====================
+song name:checkin/midi/77_re.mid
+tickMatch=644mainLength=644match=397per=0.6164596273291926
+matchsecond=119match+matchsecond=516per=0.8012422360248447
+=====================
+song name:checkin/midi/73_re.mid
+tickMatch=467mainLength=469match=242per=0.5159914712153518
+matchsecond=87match+matchsecond=329per=0.7014925373134329
+=====================
+song name:checkin/midi/08_re.mid
+tickMatch=391mainLength=391match=138per=0.35294117647058826
+matchsecond=52match+matchsecond=190per=0.4859335038363171
+=====================
+song name:checkin/midi/12_re.mid
+tickMatch=412mainLength=413match=126per=0.3050847457627119
+matchsecond=31match+matchsecond=157per=0.3801452784503632
+=====================
+song name:checkin/midi/57_re.mid
+tickMatch=701mainLength=702match=351per=0.5
+matchsecond=108match+matchsecond=459per=0.6538461538461539
+=====================
+song name:checkin/midi/21_re.mid
+tickMatch=404mainLength=406match=206per=0.5073891625615764
+matchsecond=89match+matchsecond=295per=0.7266009852216748
+=====================
+song name:checkin/midi/04_re.mid
+tickMatch=454mainLength=454match=250per=0.5506607929515418
+matchsecond=76match+matchsecond=326per=0.7180616740088106
+=====================
+song name:checkin/midi/18_re.mid
+tickMatch=311mainLength=313match=137per=0.43769968051118213
+matchsecond=54match+matchsecond=191per=0.610223642172524
+=====================
+song name:checkin/midi/55_re.mid
+tickMatch=523mainLength=525match=292per=0.5561904761904762
+matchsecond=94match+matchsecond=386per=0.7352380952380952
+=====================
+song name:checkin/midi/41_re.mid
+tickMatch=627mainLength=628match=339per=0.5398089171974523
+matchsecond=95match+matchsecond=434per=0.6910828025477707
+=====================
+song name:checkin/midi/51_re.mid
+tickMatch=335mainLength=335match=216per=0.6447761194029851
+matchsecond=56match+matchsecond=272per=0.8119402985074626
+=====================
+song name:checkin/midi/06_re.mid
+tickMatch=401mainLength=403match=192per=0.47642679900744417
+matchsecond=70match+matchsecond=262per=0.6501240694789082
+=====================
+song name:checkin/midi/79_re.mid
+tickMatch=336mainLength=337match=182per=0.5400593471810089
+matchsecond=53match+matchsecond=235per=0.6973293768545994
+=====================
+song name:checkin/midi/28_re.mid
+tickMatch=529mainLength=529match=309per=0.5841209829867675
+matchsecond=88match+matchsecond=397per=0.7504725897920604
+=====================
+song name:checkin/midi/72_re.mid
+tickMatch=510mainLength=512match=269per=0.525390625
+matchsecond=114match+matchsecond=383per=0.748046875
+=====================
+song name:checkin/midi/09_re.mid
+tickMatch=583mainLength=583match=352per=0.6037735849056604
+matchsecond=106match+matchsecond=458per=0.7855917667238422
+=====================
+song name:checkin/midi/42_re.mid
+tickMatch=349mainLength=349match=232per=0.664756446991404
+matchsecond=51match+matchsecond=283per=0.8108882521489972
+=====================
+song name:checkin/midi/33_re.mid
+tickMatch=518mainLength=519match=279per=0.5375722543352601
+matchsecond=110match+matchsecond=389per=0.7495183044315993
+=====================
+song name:checkin/midi/75_re.mid
+tickMatch=679mainLength=681match=339per=0.4977973568281938
+matchsecond=183match+matchsecond=522per=0.7665198237885462
+=====================
+song name:checkin/midi/74_re.mid
+tickMatch=536mainLength=536match=232per=0.43283582089552236
+matchsecond=163match+matchsecond=395per=0.7369402985074627
+=====================
+song name:checkin/midi/19_re.mid
+tickMatch=486mainLength=487match=200per=0.4106776180698152
+matchsecond=154match+matchsecond=354per=0.7268993839835729
+=====================
+song name:checkin/midi/52_re.mid
+tickMatch=464mainLength=464match=316per=0.6810344827586207
+matchsecond=89match+matchsecond=405per=0.8728448275862069
+=====================
+song name:checkin/midi/53_re.mid
+tickMatch=537mainLength=537match=293per=0.5456238361266295
+matchsecond=107match+matchsecond=400per=0.74487895716946
+=====================
+song name:checkin/midi/23_re.mid
+tickMatch=435mainLength=436match=245per=0.5619266055045872
+matchsecond=83match+matchsecond=328per=0.7522935779816514
+=====================
+song name:checkin/midi/35_re.mid
+tickMatch=288mainLength=288match=150per=0.5208333333333334
+matchsecond=14match+matchsecond=164per=0.5694444444444444
+=====================
+song name:checkin/midi/64_re.mid
+tickMatch=428mainLength=429match=227per=0.5291375291375291
+matchsecond=81match+matchsecond=308per=0.717948717948718
+=====================
+song name:checkin/midi/67_re.mid
+tickMatch=503mainLength=504match=275per=0.5456349206349206
+matchsecond=73match+matchsecond=348per=0.6904761904761905
+=====================
+song name:checkin/midi/25_re.mid
+tickMatch=360mainLength=362match=213per=0.5883977900552486
+matchsecond=64match+matchsecond=277per=0.7651933701657458
+=====================
+song name:checkin/midi/03_re.mid
+tickMatch=485mainLength=487match=166per=0.3408624229979466
+matchsecond=96match+matchsecond=262per=0.5379876796714579
+=====================
+song name:checkin/midi/01_re.mid
+tickMatch=276mainLength=277match=125per=0.45126353790613716
+matchsecond=45match+matchsecond=170per=0.6137184115523465
+=====================
+song name:checkin/midi/45_re.mid
+tickMatch=461mainLength=462match=267per=0.577922077922078
+matchsecond=60match+matchsecond=327per=0.7077922077922078
+=====================
+song name:checkin/midi/15_re.mid
+tickMatch=454mainLength=454match=285per=0.6277533039647577
+matchsecond=74match+matchsecond=359per=0.7907488986784141
+=====================
+song name:checkin/midi/60_re.mid
+tickMatch=480mainLength=481match=257per=0.5343035343035343
+matchsecond=69match+matchsecond=326per=0.6777546777546778
+=====================
+song name:checkin/midi/22_re.mid
+tickMatch=593mainLength=594match=328per=0.5521885521885522
+matchsecond=173match+matchsecond=501per=0.8434343434343434
+=====================
+song name:checkin/midi/48_re.mid
+tickMatch=569mainLength=570match=312per=0.5473684210526316
+matchsecond=128match+matchsecond=440per=0.7719298245614035
+=====================
+song name:checkin/midi/59_re.mid
+tickMatch=251mainLength=251match=137per=0.545816733067729
+matchsecond=49match+matchsecond=186per=0.7410358565737052
+=====================
+song name:checkin/midi/27_re.mid
+tickMatch=651mainLength=651match=357per=0.5483870967741935
+matchsecond=107match+matchsecond=464per=0.7127496159754224
+=====================
+song name:checkin/midi/61_re.mid
+tickMatch=435mainLength=435match=243per=0.5586206896551724
+matchsecond=111match+matchsecond=354per=0.8137931034482758
+=====================
+song name:checkin/midi/49_re.mid
+tickMatch=489mainLength=489match=263per=0.5378323108384458
+matchsecond=63match+matchsecond=326per=0.6666666666666666
+=====================
+song name:checkin/midi/24_re.mid
+tickMatch=404mainLength=406match=232per=0.5714285714285714
+matchsecond=67match+matchsecond=299per=0.7364532019704434
+=====================
+song name:checkin/midi/17_re.mid
+tickMatch=408mainLength=409match=237per=0.5794621026894865
+matchsecond=67match+matchsecond=304per=0.7432762836185819
+=====================
+song name:checkin/midi/54_re.mid
+tickMatch=698mainLength=702match=447per=0.6367521367521367
+matchsecond=129match+matchsecond=576per=0.8205128205128205
+=====================
+song name:checkin/midi/63_re.mid
+tickMatch=415mainLength=415match=295per=0.7108433734939759
+matchsecond=41match+matchsecond=336per=0.8096385542168675
+=====================
+song name:checkin/midi/11_re.mid
+tickMatch=664mainLength=665match=206per=0.3097744360902256
+matchsecond=33match+matchsecond=239per=0.3593984962406015
+=====================
+song name:checkin/midi/38_re.mid
+tickMatch=526mainLength=527match=306per=0.5806451612903226
+matchsecond=45match+matchsecond=351per=0.6660341555977229
+=====================
+song name:checkin/midi/26_re.mid
+tickMatch=603mainLength=603match=385per=0.6384742951907131
+matchsecond=109match+matchsecond=494per=0.8192371475953566
+=====================
+song name:checkin/midi/56_re.mid
+tickMatch=513mainLength=513match=264per=0.5146198830409356
+matchsecond=114match+matchsecond=378per=0.7368421052631579
+=====================
+song name:checkin/midi/30_re.mid
+tickMatch=358mainLength=358match=220per=0.6145251396648045
+matchsecond=64match+matchsecond=284per=0.7932960893854749
+=====================
+song name:checkin/midi/47_re.mid
+tickMatch=259mainLength=263match=125per=0.4752851711026616
+matchsecond=33match+matchsecond=158per=0.6007604562737643
+=====================
+song name:checkin/midi/62_re.mid
+tickMatch=531mainLength=532match=284per=0.5338345864661654
+matchsecond=97match+matchsecond=381per=0.7161654135338346
+=====================
+song name:checkin/midi/66_re.mid
+tickMatch=650mainLength=652match=330per=0.5061349693251533
+matchsecond=157match+matchsecond=487per=0.7469325153374233
+=====================
+song name:checkin/midi/78_re.mid
+tickMatch=498mainLength=499match=227per=0.45490981963927857
+matchsecond=154match+matchsecond=381per=0.7635270541082164
+=====================
+song name:checkin/midi/14_re.mid
+tickMatch=610mainLength=610match=398per=0.6524590163934426
+matchsecond=98match+matchsecond=496per=0.8131147540983606
+=====================
+song name:checkin/midi/81_re.mid
+tickMatch=583mainLength=583match=332per=0.5694682675814752
+matchsecond=98match+matchsecond=430per=0.7375643224699828
+=====================
+song name:checkin/midi/58_re.mid
+tickMatch=484mainLength=485match=294per=0.6061855670103092
+matchsecond=79match+matchsecond=373per=0.7690721649484537
+=====================
+song name:checkin/midi/29_re.mid
+tickMatch=370mainLength=370match=232per=0.6270270270270271
+matchsecond=60match+matchsecond=292per=0.7891891891891892
+=====================
+song name:checkin/midi/32_re.mid
+tickMatch=499mainLength=501match=300per=0.5988023952095808
+matchsecond=100match+matchsecond=400per=0.7984031936127745
+=====================
+song name:checkin/midi/43_re.mid
+tickMatch=376mainLength=376match=210per=0.5585106382978723
+matchsecond=74match+matchsecond=284per=0.7553191489361702
+=====================
+song name:checkin/midi/86_re.mid
+tickMatch=739mainLength=740match=325per=0.4391891891891892
+matchsecond=144match+matchsecond=469per=0.6337837837837837
+=====================
+song name:checkin/midi/02_re.mid
+tickMatch=821mainLength=828match=277per=0.33454106280193235
+matchsecond=90match+matchsecond=367per=0.44323671497584544
+=====================
+song name:checkin/midi/70_re.mid
+tickMatch=452mainLength=452match=229per=0.5066371681415929
+matchsecond=124match+matchsecond=353per=0.7809734513274337
+=====================
+song name:checkin/midi/37_re.mid
+tickMatch=431mainLength=431match=158per=0.3665893271461717
+matchsecond=92match+matchsecond=250per=0.580046403712297
+=====================
+song name:checkin/midi/76_re.mid
+tickMatch=447mainLength=448match=220per=0.49107142857142855
+matchsecond=95match+matchsecond=315per=0.703125
+=====================
+song name:checkin/midi/36_re.mid
+tickMatch=389mainLength=389match=223per=0.5732647814910026
+matchsecond=53match+matchsecond=276per=0.7095115681233933
+=====================
+song name:checkin/midi/20_re.mid
+tickMatch=419mainLength=419match=265per=0.6324582338902148
+matchsecond=63match+matchsecond=328per=0.7828162291169452
+=====================
+song name:checkin/midi/83_re.mid
+tickMatch=493mainLength=493match=313per=0.6348884381338742
+matchsecond=60match+matchsecond=373per=0.7565922920892495
+=====================
+song name:checkin/midi/84_re.mid
+tickMatch=574mainLength=575match=300per=0.5217391304347826
+matchsecond=43match+matchsecond=343per=0.5965217391304348
+=====================
+song name:checkin/midi/68_re.mid
+tickMatch=71mainLength=575match=9per=0.01565217391304348
+matchsecond=1match+matchsecond=10per=0.017391304347826087
+=====================
+song name:checkin/midi/85_re.mid
+tickMatch=639mainLength=639match=382per=0.5978090766823161
+matchsecond=114match+matchsecond=496per=0.7762128325508607
+=====================
+song name:checkin/midi/71_re.mid
+tickMatch=507mainLength=507match=265per=0.5226824457593688
+matchsecond=134match+matchsecond=399per=0.7869822485207101
+=====================
+song name:checkin/midi/13_re.mid
+tickMatch=719mainLength=719match=307per=0.42698191933240615
+matchsecond=106match+matchsecond=413per=0.5744089012517385
+=====================
+song name:checkin/midi/40_re.mid
+tickMatch=560mainLength=560match=351per=0.6267857142857143
+matchsecond=103match+matchsecond=454per=0.8107142857142857
+=====================
+song name:checkin/midi/31_re.mid
+tickMatch=157mainLength=157match=74per=0.4713375796178344
+matchsecond=25match+matchsecond=99per=0.6305732484076433
+=====================
+song name:checkin/midi/16_re.mid
+tickMatch=650mainLength=652match=289per=0.4432515337423313
+matchsecond=198match+matchsecond=487per=0.7469325153374233
+=====================

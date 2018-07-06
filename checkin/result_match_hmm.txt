@@ -1,0 +1,7 @@
+tickMatch=431
+haha
+mainLength=431
+match=105per=0.24361948955916474
+草生えた
+noDataNum=0
+except nodata per = 0.24361948955916474

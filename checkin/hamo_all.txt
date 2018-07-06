@@ -1,0 +1,425 @@
+song name:checkin/midi/10_re.mid
+tickMatch=1033mainLength=1035match=684per=0.6608695652173913
+noDataNum=0
+except nodata per = 0.6608695652173913
+=====================
+song name:checkin/midi/80_re.mid
+tickMatch=1654mainLength=621match=382per=0.6151368760064412
+noDataNum=0
+except nodata per = 0.6151368760064412
+=====================
+song name:checkin/midi/07_re.mid
+tickMatch=2098mainLength=444match=295per=0.6644144144144144
+noDataNum=0
+except nodata per = 0.6644144144144144
+=====================
+song name:checkin/midi/65_re.mid
+tickMatch=2538mainLength=440match=365per=0.8295454545454546
+noDataNum=0
+except nodata per = 0.8295454545454546
+=====================
+song name:checkin/midi/46_re.mid
+tickMatch=3026mainLength=489match=324per=0.6625766871165644
+noDataNum=0
+except nodata per = 0.6625766871165644
+=====================
+song name:checkin/midi/44_re.mid
+tickMatch=3439mainLength=413match=281per=0.6803874092009685
+noDataNum=0
+except nodata per = 0.6803874092009685
+=====================
+song name:checkin/midi/50_re.mid
+tickMatch=3908mainLength=469match=289per=0.6162046908315565
+noDataNum=0
+except nodata per = 0.6162046908315565
+=====================
+song name:checkin/midi/82_re.mid
+tickMatch=4507mainLength=599match=412per=0.6878130217028381
+noDataNum=0
+except nodata per = 0.6878130217028381
+=====================
+song name:checkin/midi/34_re.mid
+tickMatch=5042mainLength=537match=340per=0.633147113594041
+noDataNum=0
+except nodata per = 0.633147113594041
+=====================
+song name:checkin/midi/39_re.mid
+tickMatch=5437mainLength=395match=275per=0.6962025316455697
+noDataNum=0
+except nodata per = 0.6962025316455697
+=====================
+song name:checkin/midi/69_re.mid
+tickMatch=5843mainLength=407match=244per=0.5995085995085995
+noDataNum=0
+except nodata per = 0.5995085995085995
+=====================
+song name:checkin/midi/77_re.mid
+tickMatch=6487mainLength=644match=466per=0.7236024844720497
+noDataNum=0
+except nodata per = 0.7236024844720497
+=====================
+song name:checkin/midi/73_re.mid
+tickMatch=6954mainLength=469match=287per=0.6119402985074627
+noDataNum=0
+except nodata per = 0.6119402985074627
+=====================
+song name:checkin/midi/08_re.mid
+tickMatch=7345mainLength=391match=201per=0.5140664961636828
+noDataNum=0
+except nodata per = 0.5140664961636828
+=====================
+song name:checkin/midi/12_re.mid
+tickMatch=7757mainLength=413match=162per=0.3922518159806295
+noDataNum=0
+except nodata per = 0.3922518159806295
+=====================
+song name:checkin/midi/57_re.mid
+tickMatch=8458mainLength=702match=538per=0.7663817663817664
+noDataNum=0
+except nodata per = 0.7663817663817664
+=====================
+song name:checkin/midi/21_re.mid
+tickMatch=8862mainLength=406match=187per=0.4605911330049261
+noDataNum=0
+except nodata per = 0.4605911330049261
+=====================
+song name:checkin/midi/04_re.mid
+tickMatch=9316mainLength=454match=262per=0.5770925110132159
+noDataNum=0
+except nodata per = 0.5770925110132159
+=====================
+song name:checkin/midi/18_re.mid
+tickMatch=9627mainLength=313match=193per=0.6166134185303515
+noDataNum=0
+except nodata per = 0.6166134185303515
+=====================
+song name:checkin/midi/55_re.mid
+tickMatch=10150mainLength=525match=345per=0.6571428571428571
+noDataNum=0
+except nodata per = 0.6571428571428571
+=====================
+song name:checkin/midi/41_re.mid
+tickMatch=10777mainLength=628match=552per=0.8789808917197452
+noDataNum=0
+except nodata per = 0.8789808917197452
+=====================
+song name:checkin/midi/51_re.mid
+tickMatch=11112mainLength=335match=232per=0.6925373134328359
+noDataNum=0
+except nodata per = 0.6925373134328359
+=====================
+song name:checkin/midi/06_re.mid
+tickMatch=11513mainLength=403match=246per=0.6104218362282878
+noDataNum=0
+except nodata per = 0.6104218362282878
+=====================
+song name:checkin/midi/79_re.mid
+tickMatch=11849mainLength=337match=239per=0.7091988130563798
+noDataNum=0
+except nodata per = 0.7091988130563798
+=====================
+song name:checkin/midi/28_re.mid
+tickMatch=12378mainLength=529match=359per=0.6786389413988658
+noDataNum=0
+except nodata per = 0.6786389413988658
+=====================
+song name:checkin/midi/72_re.mid
+tickMatch=12888mainLength=512match=313per=0.611328125
+noDataNum=0
+except nodata per = 0.611328125
+=====================
+song name:checkin/midi/09_re.mid
+tickMatch=13471mainLength=583match=413per=0.7084048027444254
+noDataNum=0
+except nodata per = 0.7084048027444254
+=====================
+song name:checkin/midi/42_re.mid
+tickMatch=13820mainLength=349match=216per=0.6189111747851003
+noDataNum=0
+except nodata per = 0.6189111747851003
+=====================
+song name:checkin/midi/33_re.mid
+tickMatch=14338mainLength=519match=310per=0.5973025048169557
+noDataNum=0
+except nodata per = 0.5973025048169557
+=====================
+song name:checkin/midi/75_re.mid
+tickMatch=15017mainLength=681match=342per=0.5022026431718062
+noDataNum=0
+except nodata per = 0.5022026431718062
+=====================
+song name:checkin/midi/74_re.mid
+tickMatch=15553mainLength=536match=300per=0.5597014925373134
+noDataNum=0
+except nodata per = 0.5597014925373134
+=====================
+song name:checkin/midi/19_re.mid
+tickMatch=16039mainLength=487match=310per=0.6365503080082136
+noDataNum=0
+except nodata per = 0.6365503080082136
+=====================
+song name:checkin/midi/52_re.mid
+tickMatch=16503mainLength=464match=321per=0.6918103448275862
+noDataNum=0
+except nodata per = 0.6918103448275862
+=====================
+song name:checkin/midi/53_re.mid
+tickMatch=17040mainLength=537match=363per=0.6759776536312849
+noDataNum=0
+except nodata per = 0.6759776536312849
+=====================
+song name:checkin/midi/23_re.mid
+tickMatch=17475mainLength=436match=303per=0.694954128440367
+noDataNum=0
+except nodata per = 0.694954128440367
+=====================
+song name:checkin/midi/35_re.mid
+tickMatch=17763mainLength=288match=207per=0.71875
+noDataNum=0
+except nodata per = 0.71875
+=====================
+song name:checkin/midi/64_re.mid
+tickMatch=18191mainLength=429match=258per=0.6013986013986014
+noDataNum=0
+except nodata per = 0.6013986013986014
+=====================
+song name:checkin/midi/67_re.mid
+tickMatch=18694mainLength=504match=387per=0.7678571428571429
+noDataNum=0
+except nodata per = 0.7678571428571429
+=====================
+song name:checkin/midi/25_re.mid
+tickMatch=19054mainLength=362match=264per=0.7292817679558011
+noDataNum=0
+except nodata per = 0.7292817679558011
+=====================
+song name:checkin/midi/03_re.mid
+tickMatch=19539mainLength=487match=249per=0.5112936344969199
+noDataNum=0
+except nodata per = 0.5112936344969199
+=====================
+song name:checkin/midi/01_re.mid
+tickMatch=19815mainLength=277match=161per=0.5812274368231047
+noDataNum=0
+except nodata per = 0.5812274368231047
+=====================
+song name:checkin/midi/45_re.mid
+tickMatch=20276mainLength=462match=312per=0.6753246753246753
+noDataNum=0
+except nodata per = 0.6753246753246753
+=====================
+song name:checkin/midi/15_re.mid
+tickMatch=20730mainLength=454match=318per=0.7004405286343612
+noDataNum=0
+except nodata per = 0.7004405286343612
+=====================
+song name:checkin/midi/60_re.mid
+tickMatch=21210mainLength=481match=312per=0.6486486486486487
+noDataNum=0
+except nodata per = 0.6486486486486487
+=====================
+song name:checkin/midi/22_re.mid
+tickMatch=21803mainLength=594match=339per=0.5707070707070707
+noDataNum=0
+except nodata per = 0.5707070707070707
+=====================
+song name:checkin/midi/48_re.mid
+tickMatch=22372mainLength=570match=338per=0.5929824561403508
+noDataNum=0
+except nodata per = 0.5929824561403508
+=====================
+song name:checkin/midi/59_re.mid
+tickMatch=22623mainLength=251match=187per=0.7450199203187251
+noDataNum=0
+except nodata per = 0.7450199203187251
+=====================
+song name:checkin/midi/27_re.mid
+tickMatch=23274mainLength=651match=320per=0.4915514592933948
+noDataNum=0
+except nodata per = 0.4915514592933948
+=====================
+song name:checkin/midi/61_re.mid
+tickMatch=23709mainLength=435match=268per=0.6160919540229886
+noDataNum=0
+except nodata per = 0.6160919540229886
+=====================
+song name:checkin/midi/49_re.mid
+tickMatch=24198mainLength=489match=354per=0.7239263803680982
+noDataNum=0
+except nodata per = 0.7239263803680982
+=====================
+song name:checkin/midi/24_re.mid
+tickMatch=24602mainLength=406match=219per=0.5394088669950738
+noDataNum=0
+except nodata per = 0.5394088669950738
+=====================
+song name:checkin/midi/17_re.mid
+tickMatch=25010mainLength=409match=252per=0.6161369193154034
+noDataNum=0
+except nodata per = 0.6161369193154034
+=====================
+song name:checkin/midi/54_re.mid
+tickMatch=25708mainLength=702match=454per=0.6467236467236467
+noDataNum=0
+except nodata per = 0.6467236467236467
+=====================
+song name:checkin/midi/63_re.mid
+tickMatch=26123mainLength=415match=331per=0.7975903614457831
+noDataNum=0
+except nodata per = 0.7975903614457831
+=====================
+song name:checkin/midi/11_re.mid
+tickMatch=26787mainLength=665match=282per=0.42406015037593986
+noDataNum=0
+except nodata per = 0.42406015037593986
+=====================
+song name:checkin/midi/38_re.mid
+tickMatch=27313mainLength=527match=426per=0.8083491461100569
+noDataNum=0
+except nodata per = 0.8083491461100569
+=====================
+song name:checkin/midi/26_re.mid
+tickMatch=27916mainLength=603match=364per=0.603648424543947
+noDataNum=0
+except nodata per = 0.603648424543947
+=====================
+song name:checkin/midi/56_re.mid
+tickMatch=28429mainLength=513match=317per=0.6179337231968811
+noDataNum=0
+except nodata per = 0.6179337231968811
+=====================
+song name:checkin/midi/30_re.mid
+tickMatch=28787mainLength=358match=231per=0.6452513966480447
+noDataNum=0
+except nodata per = 0.6452513966480447
+=====================
+song name:checkin/midi/47_re.mid
+tickMatch=29046mainLength=263match=182per=0.6920152091254753
+noDataNum=0
+except nodata per = 0.6920152091254753
+=====================
+song name:checkin/midi/62_re.mid
+tickMatch=29577mainLength=532match=364per=0.6842105263157895
+noDataNum=0
+except nodata per = 0.6842105263157895
+=====================
+song name:checkin/midi/66_re.mid
+tickMatch=30227mainLength=652match=405per=0.6211656441717791
+noDataNum=0
+except nodata per = 0.6211656441717791
+=====================
+song name:checkin/midi/78_re.mid
+tickMatch=30725mainLength=499match=368per=0.7374749498997996
+noDataNum=0
+except nodata per = 0.7374749498997996
+=====================
+song name:checkin/midi/14_re.mid
+tickMatch=31335mainLength=610match=423per=0.6934426229508197
+noDataNum=0
+except nodata per = 0.6934426229508197
+=====================
+song name:checkin/midi/81_re.mid
+tickMatch=31918mainLength=583match=372per=0.6380789022298456
+noDataNum=0
+except nodata per = 0.6380789022298456
+=====================
+song name:checkin/midi/58_re.mid
+tickMatch=32402mainLength=485match=351per=0.7237113402061855
+noDataNum=0
+except nodata per = 0.7237113402061855
+=====================
+song name:checkin/midi/29_re.mid
+tickMatch=32772mainLength=370match=309per=0.8351351351351352
+noDataNum=0
+except nodata per = 0.8351351351351352
+=====================
+song name:checkin/midi/32_re.mid
+tickMatch=33271mainLength=501match=299per=0.5968063872255489
+noDataNum=0
+except nodata per = 0.5968063872255489
+=====================
+song name:checkin/midi/43_re.mid
+tickMatch=33647mainLength=376match=238per=0.6329787234042553
+noDataNum=0
+except nodata per = 0.6329787234042553
+=====================
+song name:checkin/midi/86_re.mid
+tickMatch=34386mainLength=740match=467per=0.6310810810810811
+noDataNum=0
+except nodata per = 0.6310810810810811
+=====================
+song name:checkin/midi/02_re.mid
+tickMatch=35207mainLength=828match=311per=0.3756038647342995
+noDataNum=0
+except nodata per = 0.3756038647342995
+=====================
+song name:checkin/midi/70_re.mid
+tickMatch=35659mainLength=452match=312per=0.6902654867256637
+noDataNum=0
+except nodata per = 0.6902654867256637
+=====================
+song name:checkin/midi/37_re.mid
+tickMatch=36090mainLength=431match=324per=0.7517401392111369
+noDataNum=0
+except nodata per = 0.7517401392111369
+=====================
+song name:checkin/midi/76_re.mid
+tickMatch=36537mainLength=448match=267per=0.5959821428571429
+noDataNum=0
+except nodata per = 0.5959821428571429
+=====================
+song name:checkin/midi/36_re.mid
+tickMatch=36926mainLength=389match=201per=0.5167095115681234
+noDataNum=0
+except nodata per = 0.5167095115681234
+=====================
+song name:checkin/midi/20_re.mid
+tickMatch=37345mainLength=419match=276per=0.6587112171837709
+noDataNum=0
+except nodata per = 0.6587112171837709
+=====================
+song name:checkin/midi/83_re.mid
+tickMatch=37838mainLength=493match=357per=0.7241379310344828
+noDataNum=0
+except nodata per = 0.7241379310344828
+=====================
+song name:checkin/midi/84_re.mid
+tickMatch=38412mainLength=575match=320per=0.5565217391304348
+noDataNum=0
+except nodata per = 0.5565217391304348
+=====================
+song name:checkin/midi/68_re.mid
+tickMatch=38483mainLength=575match=4per=0.006956521739130435
+noDataNum=0
+except nodata per = 0.006956521739130435
+=====================
+song name:checkin/midi/85_re.mid
+tickMatch=39122mainLength=639match=431per=0.6744913928012519
+noDataNum=0
+except nodata per = 0.6744913928012519
+=====================
+song name:checkin/midi/71_re.mid
+tickMatch=39629mainLength=507match=348per=0.6863905325443787
+noDataNum=0
+except nodata per = 0.6863905325443787
+=====================
+song name:checkin/midi/13_re.mid
+tickMatch=40348mainLength=719match=291per=0.4047287899860918
+noDataNum=0
+except nodata per = 0.4047287899860918
+=====================
+song name:checkin/midi/40_re.mid
+tickMatch=40908mainLength=560match=349per=0.6232142857142857
+noDataNum=0
+except nodata per = 0.6232142857142857
+=====================
+song name:checkin/midi/31_re.mid
+tickMatch=41065mainLength=157match=108per=0.6878980891719745
+noDataNum=0
+except nodata per = 0.6878980891719745
+=====================
+song name:checkin/midi/16_re.mid
+tickMatch=41715mainLength=652match=428per=0.656441717791411
+noDataNum=0
+except nodata per = 0.656441717791411
+=====================
