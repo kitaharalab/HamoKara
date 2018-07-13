@@ -3,8 +3,8 @@ HamoKara is a singing in harmony training system.
 
 ## Installation 
 1. Unzip HamoKara.zip anywhere.
-1. Download and rename target MIDI Files.
-1. Copy target MIDI Files to HamoKara directory.
+1. Purchase and rename target MIDI File(s).
+1. Copy target MIDI File(s) to HamoKara directory.
 
 | title	| File Name | URL |
 | ---- | ---- | ---- |
