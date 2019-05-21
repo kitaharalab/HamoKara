@@ -1,5 +1,8 @@
 ﻿# HamoKara
-HamoKara is a singing in harmony training system.
+HamoKara is a system for practice of backing vocals for karaoke.
+
+## Demo
+https://www.youtube.com/watch?v=C2_P7-jMwC8
 
 ## Installation 
 1. Unzip HamoKara.zip anywhere.
