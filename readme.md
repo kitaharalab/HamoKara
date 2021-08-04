@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=C2_P7-jMwC8
 
 ## Usage
 * java -cp ext/\*:cmx_lib/\*:. HamoKara
-* [demo]http://www.kthrlab.jp/members/shiraishi/demo-video.html
+* [demo]http://www2.kthrlab.jp/members/shiraishi/demo-video.html
 
 ## Requirements
 * OS : Linux
@@ -36,4 +36,4 @@ https://www.youtube.com/watch?v=C2_P7-jMwC8
 	* kitahara@kthrlab.jp   
 	* http://www.kthrlab.jp/
 * Mina Shiraishi, Kozue Ogasawara   
-	* http://www.kthrlab.jp/members/shiraishi/index.html
+	* http://www2.kthrlab.jp/members/shiraishi/index.html
